@@ -1,3 +1,4 @@
+#### TASK1
 ## RAG Pipeline for Chatting with PDFs
 
 This repository implements a Retrieval-Augmented Generation (RAG) pipeline that allows users to interact with semi-structured data in multiple PDF files.
@@ -55,4 +56,6 @@ The system performs the following tasks:
     - Text embedding (e.g., SentenceTransformers, OpenAI Embeddings)
     - Vector database (e.g., Faiss, Pinecone, Chroma)
     - Large Language Model (e.g., transformers, OpenAI API)
+
+      
 ![WhatsApp Image 2024-12-20 at 13 21 39_d44f7ee7](https://github.com/user-attachments/assets/487244bd-4189-45bb-a90c-bcc2b6a94b0d)
